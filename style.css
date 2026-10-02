@@ -198,16 +198,3 @@ main {
 }
 
 
-/* CELULAR */
-
-@media (max-width: 600px) {
-
-    body {
-        padding: 1rem;
-    }
-
-    .gallery {
-        grid-template-columns: 1fr;
-    }
-
-}
